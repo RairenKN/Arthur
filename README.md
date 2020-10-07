@@ -1,12 +1,22 @@
 1.In CE: File - Open process. for DX9: ffxiv.exe, DX11: ffxiv_dx11.exe
 
+CE에서 : 프로세스 열기 (DDX9: ffxiv.exe, DX11: ffxiv_dx11.exe)
+
 2.In game: Zoom all the way out, make sure there are no obstructions
+
+인게임에서 : 장애물 없이 끝까지 줌 아웃
 
 3.In CE: On the right side, change Value Type to Float. Look for Value 20.0
 
+CE에서 : 오른쪽에서 Value Type을 Float로 변경, 값 20.0을 찾는다.
+
 4.In game: Zoom all the way in without going to first person
 
+인게임에서 : 1인칭 사용하지 않고 끝까지 줌 인
+
 5.In CE: Change Value to 1.5, hit enter or click "Next Scan"
+
+CE에서 : 값을 1.5로 변경, 엔터 or 클릭으로 "Next Scan"
 
 6.Repeat steps 2-5 until you see the value of interest in the window on the left. You should see the value changing as you change zoom in game.
 
