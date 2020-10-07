@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <DX9>
+    <StructureAddress>147F410</StructureAddress>
+    <ZoomCurrent>f4</ZoomCurrent>
+    <ZoomMax>fc</ZoomMax>
+    <FovCurrent>100</FovCurrent>
+    <FovMax>108</FovMax>
+  </DX9>
+  <DX11>
+    <StructureAddress>1D09BA0</StructureAddress>
+    <ZoomCurrent>114</ZoomCurrent>
+    <ZoomMax>11c</ZoomMax>
+    <FovCurrent>120</FovCurrent>
+    <FovMax>128</FovMax>
+  </DX11>
+  <LastUpdate>2020-9-8 - patch 5.31 (DX11/DX9)</LastUpdate>
+</Root>
