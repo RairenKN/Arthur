@@ -80,7 +80,7 @@ CE에서 : 상단 목록은 여러개의 결과가 나와야 하고, 모든 녹�
 
 21.Check Pointer, change Type to Float
 
-Check Pointer, Type을 Float으로 변경.
+Pointer 체크, Type을 Float으로 변경.
 
 22.Paste the address in the box above "Add Offset", click OK
 
