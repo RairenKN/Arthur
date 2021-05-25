@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Root>
   <DX9>
-    <StructureAddress>147F410</StructureAddress>
-    <ZoomCurrent>f4</ZoomCurrent>
-    <ZoomMax>fc</ZoomMax>
+    <StructureAddress>154D3C0</StructureAddress>
+    <ZoomCurrent>F4</ZoomCurrent>
+    <ZoomMin>F8</ZoomMin>
+    <ZoomMax>FC</ZoomMax>
     <FovCurrent>100</FovCurrent>
     <FovMax>108</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>1D88370</StructureAddress>
+    <StructureAddress>1D87370</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
-    <ZoomMax>11c</ZoomMax>
+    <ZoomMin>118</ZoomMin>
+    <ZoomMax>11C</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2021-05-18 5.4 KR :3 (DX 11 only)</LastUpdate>
+  <LastUpdate>2021-05-25 5.4 KR Hotfix :3 (DX 11 only)</LastUpdate>
 </Root>
