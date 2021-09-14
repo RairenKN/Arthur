@@ -9,14 +9,14 @@
     <FovMax>108</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>1D88370</StructureAddress>
+    <StructureAddress>1DAC370</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
     <ZoomMin>118</ZoomMin>
     <ZoomMax>11C</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2021-08-12 5.45 KR Hotfix :3! (DX 11 only)</LastUpdate>
+  <LastUpdate>2021-09-14 5.5 KR ⌒_⌒ (DX 11 only)</LastUpdate>
   <AutoApply>True</AutoApply>
   <DesiredZoomMin>1.5</DesiredZoomMin>
   <DesiredZoomMax>20</DesiredZoomMax>
