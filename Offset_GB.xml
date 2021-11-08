@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <DX9>
+    <StructureAddress>14EFEE0</StructureAddress>
+    <ZoomCurrent>F4</ZoomCurrent>
+    <ZoomMin>F8</ZoomMin>
+    <ZoomMax>FC</ZoomMax>
+    <FovCurrent>100</FovCurrent>
+    <FovMax>108</FovMax>
+  </DX9>
+  <DX11>
+    <StructureAddress>1DAEF70</StructureAddress>
+    <ZoomCurrent>114</ZoomCurrent>
+    <ZoomMin>118</ZoomMin>
+    <ZoomMax>11C</ZoomMax>
+    <FovCurrent>120</FovCurrent>
+    <FovMax>128</FovMax>
+  </DX11>
+  <LastUpdate>2021-08-24 - patch 5.59?</LastUpdate>
+  <AutoApply>True</AutoApply>
+  <DesiredZoomMin>1.5</DesiredZoomMin>
+  <DesiredZoomMax>23</DesiredZoomMax>
+  <DesiredFov>1.5</DesiredFov>
+  <OffsetUpdateLocation>https://raw.githubusercontent.com/Panit339/Arthur/main/Offset_GB.xml</OffsetUpdateLocation>
+</Root>
