@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Root>
-  <DX9>
-    <StructureAddress>14EFEE0</StructureAddress>
-    <ZoomCurrent>F4</ZoomCurrent>https://github.com/Panit339/Arthur/blob/main/Offset_KR.xml
-    <ZoomMin>F8</ZoomMin>
-    <ZoomMax>FC</ZoomMax>
-    <FovCurrent>100</FovCurrent>
-    <FovMax>108</FovMax>
-  </DX9>
   <DX11>
     <StructureAddress>1DB1370</StructureAddress>
-    <ZoomCurrent>114</ZoomCurrent>
-    <ZoomMin>118</ZoomMin>
-    <ZoomMax>11C</ZoomMax>
+    <ZoomCurrent>118</ZoomCurrent>
+    <ZoomMax>11c</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
   <LastUpdate>2021-11-08 5.55 HotFix KR ⌒_⌒ (DX 11 only)</LastUpdate>
-  <AutoApply>True</AutoApply>
-  <DesiredZoomMin>1.5</DesiredZoomMin>
-  <DesiredZoomMax>20</DesiredZoomMax>
-  <DesiredFov>0.78</DesiredFov>
-  <OffsetUpdateLocation>https://raw.github.com/Panit339/Arthur/blob/main/Offset_KR.xml</OffsetUpdateLocation>
 </Root>
