@@ -21,5 +21,5 @@
   <DesiredZoomMin>1.5</DesiredZoomMin>
   <DesiredZoomMax>23</DesiredZoomMax>
   <DesiredFov>1.5</DesiredFov>
-  <OffsetUpdateLocation>https://raw.githubusercontent.com/Panit339/Arthur/main/Offset_GB.xml</OffsetUpdateLocation>
+  <OffsetUpdateLocation>https://raw.githubusercontent.com/jayotterbein/FFXIV-Zoom-Hack/master/Offsets.xml</OffsetUpdateLocation>
 </Root>
