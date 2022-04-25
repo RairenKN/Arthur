@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Root>
   <DX9>
-    <StructureAddress>14EFEE0</StructureAddress>
-    <ZoomCurrent>F4</ZoomCurrent>
-    <ZoomMin>F8</ZoomMin>
-    <ZoomMax>FC</ZoomMax>
+    <StructureAddress>14EFEE00</StructureAddress>
+    <ZoomCurrent>F40</ZoomCurrent>
+    <ZoomMin>F80</ZoomMin>
+    <ZoomMax>FC0</ZoomMax>
     <FovCurrent>100</FovCurrent>
     <FovMax>108</FovMax>
   </DX9>
