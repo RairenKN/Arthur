@@ -9,17 +9,19 @@
     <FovMax>108</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>1DAB370</StructureAddress>
-    <ZoomCurrent>114</ZoomCurrent>
-    <ZoomMin>118</ZoomMin>
-    <ZoomMax>11C</ZoomMax>
-    <FovCurrent>120</FovCurrent>
-    <FovMax>128</FovMax>
+    <StructureAddress>1DAB3700</StructureAddress>
+    <ZoomCurrent>1140</ZoomCurrent>
+    <ZoomMin>1180</ZoomMin>
+    <ZoomMax>11C0</ZoomMax>
+    <FovCurrent>1200</FovCurrent>
+    <FovMax>1280</FovMax>
   </DX11>
-  <LastUpdate>2022-1-11 5.58 KR 우효 (DX 11 only)</LastUpdate>
+  <text2022-1-11 5.58 KR 우효 (DX 11 only)>
+    <Zoom3><Desired3>
+  <LastUpdate>ERROR</LastUpdate>
   <AutoApply>True</AutoApply>
-  <DesiredZoomMin>1.5</DesiredZoomMin>
-  <DesiredZoomMax>23</DesiredZoomMax>
-  <DesiredFov>1.5</DesiredFov>
+  <DesiredZoomMin>1.50</DesiredZoomMin>
+  <DesiredZoomMax>230</DesiredZoomMax>
+  <DesiredFov>1.50</DesiredFov>
   <OffsetUpdateLocation>https://raw.githubusercontent.com/Panit339/Arthur/main/Offset_KR.xml</OffsetUpdateLocation>
 </Root>
