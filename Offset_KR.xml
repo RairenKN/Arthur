@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Root>
   <DX9>
-    <StructureAddress>14EFEE00</StructureAddress>
-    <ZoomCurrent>F40</ZoomCurrent>
-    <ZoomMin>F80</ZoomMin>
-    <ZoomMax>FC0</ZoomMax>
+    <StructureAddress>14EFEE0</StructureAddress>
+    <ZoomCurrent>F4</ZoomCurrent>
+    <ZoomMin>F8</ZoomMin>
+    <ZoomMax>FC</ZoomMax>
     <FovCurrent>100</FovCurrent>
     <FovMax>108</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>1DAB3700</StructureAddress>
-    <ZoomCurrent>1140</ZoomCurrent>
-    <ZoomMin>1180</ZoomMin>
-    <ZoomMax>11C0</ZoomMax>
-    <FovCurrent>1200</FovCurrent>
-    <FovMax>1280</FovMax>
+    <StructureAddress>1DAB370</StructureAddress>
+    <ZoomCurrent>114</ZoomCurrent>
+    <ZoomMin>118</ZoomMin>
+    <ZoomMax>11C</ZoomMax>
+    <FovCurrent>120</FovCurrent>
+    <FovMax>128</FovMax>
   </DX11>
-  <text2022-1-11 5.58 KR 우효 (DX 11 only)>
     <Zoom3><Desired3>
-  <LastUpdate>ERROR</LastUpdate>
+  <LastUpdate>2022-1-11 5.58 KR 우효 (DX 11 only)</LastUpdate>
   <AutoApply>True</AutoApply>
   <DesiredZoomMin>1.50</DesiredZoomMin>
   <DesiredZoomMax>230</DesiredZoomMax>
