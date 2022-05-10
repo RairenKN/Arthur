@@ -9,12 +9,12 @@
     <FovMax>108</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>1D87370</StructureAddress>
+    <StructureAddress>1E71C80</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
     <ZoomMin>118</ZoomMin>
     <ZoomMax>11C</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2021-05-25 5.4 KR Hotfix :3 (DX 11 only)</LastUpdate>
+  <LastUpdate>2022-5-10 6.0 KR ENDWALKER 우효 와인잔 (DX 11 only)</LastUpdate>
 </Root>
