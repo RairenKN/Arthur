@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Root>
+  <DX9>
+    <StructureAddress>154D3C0</StructureAddress>
+    <ZoomCurrent>F4</ZoomCurrent>
+    <ZoomMin>F8</ZoomMin>
+    <ZoomMax>FC</ZoomMax>
+    <FovCurrent>100</FovCurrent>
+    <FovMax>108</FovMax>
+  </DX9>
   <DX11>
     <StructureAddress>1E71C80</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
+    <ZoomMin>118</ZoomMin>
     <ZoomMax>11C</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
   <LastUpdate>2022-5-10 6.0 KR ENDWALKER 와인잔 흔들기 (DX 11 only)</LastUpdate>
-  <AutoApply>True</AutoApply>
-  <AutoQuit>False</AutoQuit>
-  <DesiredZoom>23</DesiredZoom>
-  <DesiredFov>0.78</DesiredFov>
-  <OffsetUpdateLocation>업데이트 필요시에만 우측의 버튼을 누른 후 업데이트 해주세요!!</OffsetUpdateLocation>
 </Root>
