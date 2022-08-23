@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Root>
   <DX9>
     <StructureAddress>14EFEE0</StructureAddress>
@@ -16,7 +16,7 @@
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2022-4-12 - patch 6.1 ⌒_⌒</LastUpdate>
+  <LastUpdate>글섭 오프셋 테스트 (아직 작동안함)</LastUpdate>
   <AutoApply>True</AutoApply>
   <DesiredZoomMin>1.5</DesiredZoomMin>
   <DesiredZoomMax>23</DesiredZoomMax>
